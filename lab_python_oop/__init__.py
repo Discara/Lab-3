@@ -1,0 +1,1 @@
+all__ = ["geom_figure", "figure_color", "rectangle", "square", "circle"]
